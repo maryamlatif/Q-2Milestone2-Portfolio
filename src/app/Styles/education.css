@@ -1,0 +1,48 @@
+.education-container {
+    background-color: #d9f99d; 
+    padding-top: 1.25rem; 
+    padding-bottom: 3rem;
+    padding-left: 1.5rem; 
+    padding-right: 1.5rem;
+    text-align: center;
+    margin: 2rem; 
+    border-radius: 0.5rem;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .education-title {
+    color: #365314; 
+    padding-top: 1.25rem; 
+    font-size: 2rem; 
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+  
+  .education-description {
+    text-align: center;
+    padding: 1.25rem; 
+    margin: 1rem; 
+    max-width: 48rem; 
+    color: #333; 
+    font-family: serif;
+    font-size: 1.125rem; 
+  }
+  
+  .education-list {
+    text-align: center;
+    font-size: 1.125rem; 
+    font-weight: 600; 
+    max-width: 25%;
+    margin: 0 auto;
+    padding-left: 20px;
+  }
+  
+  .education-item {
+    margin-top: 1rem; 
+  }
+  
+  .education-institution {
+    font-size: 1.5rem; 
+    font-weight: 600; 
+  }
+  

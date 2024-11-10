@@ -1,0 +1,33 @@
+.header-container {
+    background-color: #a3e635;
+    color: #333; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+    box-shadow: 0px 4px 6px rgba(71, 85, 105, 0.5);
+  }
+  
+  .header-title {
+    font-size:larger; 
+    font-family: serif;
+    font-weight: 600;
+  }
+  
+  .header-nav {
+    display: flex;
+    gap: 24px;
+    font-weight: 500;
+    justify-content: space-evenly;
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    color: inherit;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-link:hover {
+    color: #60bc7d; 
+  }
+  
